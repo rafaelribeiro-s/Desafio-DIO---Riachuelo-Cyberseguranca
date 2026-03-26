@@ -54,7 +54,7 @@ Este projeto está dividido em três cenários de ataque:
 - Exposição de arquivos  
 - Possível movimentação lateral  
 
-📄 Ver relatório completo em: `/ftp_attack`
+📄 Ver relatório completo em: https://github.com/rafaelribeiro-s/Desafio-DIO---Riachuelo-Cyberseguranca/wiki/Ataque-FTP
 
 ---
 
@@ -73,7 +73,7 @@ Este projeto está dividido em três cenários de ataque:
 - Possível comprometimento da aplicação  
 - Exposição de dados sensíveis  
 
-📄 Ver relatório completo em: `/web_attack_dvwa`
+📄 Ver relatório completo em: https://github.com/rafaelribeiro-s/Desafio-DIO---Riachuelo-Cyberseguranca/wiki/Ataque-Web-DVWA
 
 ---
 
@@ -92,7 +92,7 @@ Este projeto está dividido em três cenários de ataque:
 - Acesso a compartilhamentos administrativos  
 - Possível escalonamento de privilégios  
 
-📄 Ver relatório completo em: `/smb_attack`
+📄 Ver relatório completo em: https://github.com/rafaelribeiro-s/Desafio-DIO---Riachuelo-Cyberseguranca/wiki/Ataque-SMB
 
 ---
 
